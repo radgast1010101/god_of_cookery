@@ -1,5 +1,6 @@
 # god of cookery
 
-- a.i. based game about stephen chow's god of cookery
+- a.i. based game, cooking adventure sim
 - using galadriel chain at https://galadriel.com/
-- a.i. + blockchain + god game
+- a.i. + blockchain + sim game
+
